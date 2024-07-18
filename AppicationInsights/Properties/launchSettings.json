@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NLog-ApplicationInsights": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
